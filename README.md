@@ -2,7 +2,7 @@
 
 Esse é meu projeto de tabelas de dados de FIlmes
 
-Acesse o site<a href="https://guilhermesantosi.github.io/dados-filmes/">dados-filmes</a>
+Acesse o site <a href="https://guilhermesantosi.github.io/dados-filmes/">dados-filmes</a>
 
 Esse repositório tem intuito mostra dados de cada filme, como o direto do filme, o ano, e até mesmo a bilhetoria do filme, e entre outros topicos.
 
